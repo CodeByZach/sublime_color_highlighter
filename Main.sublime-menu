@@ -539,7 +539,7 @@
 							{
 								"caption": "Settings",
 								"command": "edit_settings", "args": {
-									"base_file": "${packages}/ColorHighlighter/ColorHighlighter.sublime-settings",
+									"base_file": "${packages}/Color Highlighter/ColorHighlighter.sublime-settings",
 									"default": "{\n$0\n}\n"
 								}
 							},
@@ -548,7 +548,7 @@
 								"caption": "README",
 								"command": "open_file", "args":
 								{
-									"file": "${packages}/ColorHighlighter/README.md"
+									"file": "${packages}/Color Highlighter/README.md"
 								}
 							}
 						]

@@ -1,25 +1,24 @@
 # ColorHighlighter
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C2L27SE4YDFAC)
 [![Package Control Downloads][pc-image]][pc-link]
 
 _ColorHighlighter is a plugin for the Sublime Text 2 and 3, which unobtrusively previews color values by underlaying the selected hex codes in different styles, coloring text or gutter icons. Also, plugin adds color picker, color format converter to easily modify colors._
 
-![Description](http://i.imgur.com/UPmEk09.png)
+![Description](docs/UPmEk09.png)
 
-![Description](http://i.imgur.com/kl4joGA.png)
+![Description](docs/kl4joGA.png)
 
-![Description](http://sametmax.com/wp-content/uploads/2013/04/hilight-color.gif)
+![Description](docs/highlight-color.gif)
 
-![Description](http://sametmax.com/wp-content/uploads/2013/04/color-picker.gif)
+![Description](docs/color-picker.gif)
 
 ## Installation
 
 - **_Recommended_** - Using [Sublime Package Control](https://packagecontrol.io "Sublime Package Control")
     - <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> then select `Package Control: Install Package`
     - install `Color Highlighter`
-- Alternatively, download the package from [GitHub](https://github.com/Monnoroch/ColorHighlighter "ColorHighlighter") into your `Packages` folder.
-- For gutter icons install [ImageMagick](http://www.imagemagick.org/). To configure ImageMagick, update `icon_factory.convert_command` plugin setting to the path of the convert utility on your machine, hint: use the `which convert` command on *nix machines.
+- Alternatively, download the package from [GitHub](https://github.com/EatBreatheCode/sublime_color_highlighter "ColorHighlighter") into your `Packages` folder.
+- For gutter icons install [ImageMagick](https://www.imagemagick.org/). To configure ImageMagick, update `icon_factory.convert_command` plugin setting to the path of the convert utility on your machine, hint: use the `which convert` command on *nix machines*.
 
 ## Color Highlighting styles
 
@@ -159,12 +158,6 @@ and `Filled` in
 `Tools > Color Highlighter > Color Highlighters > Highlight colors in selected text > Inline highlighting style`
 it might not work all the time. If you close/open the file a few times and sometimes it's working fine and sometimes it
 isn't, this is exactly this issue.
-
-**Donate**
-
-Thank you guys for all your support, I couldn't have done it without your contributions. Every little bit helps!
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C2L27SE4YDFAC)
 
 [pc-image]: https://img.shields.io/packagecontrol/dt/Color%20Highlighter.svg
 [pc-link]: https://packagecontrol.io/packages/Color%20Highlighter

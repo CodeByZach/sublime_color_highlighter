@@ -1,0 +1,8 @@
+.gitignore     export-ignore
+.gitattributes export-ignore
+
+# Files & folders that should not be included in production.
+/docs/                              export-ignore
+/tests/                             export-ignore
+/.gitlab-ci.yml                     export-ignore
+/mkdocs.yml                         export-ignore

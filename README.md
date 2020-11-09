@@ -17,7 +17,7 @@ _ColorHighlighter is a plugin for the Sublime Text 2 and 3, which unobtrusively 
 - **_Recommended_** - Using [Sublime Package Control](https://packagecontrol.io "Sublime Package Control")
     - <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> then select `Package Control: Install Package`
     - install `Color Highlighter`
-- Alternatively, download the package from [GitHub](https://github.com/EatBreatheCode/sublime_color_highlighter "ColorHighlighter") into your `Packages` folder.
+- Alternatively, download the package from [GitHub](https://github.com/CodeByZach/sublime_color_highlighter "ColorHighlighter") into your `Packages` folder.
 - For gutter icons install [ImageMagick](https://www.imagemagick.org/). To configure ImageMagick, update `icon_factory.convert_command` plugin setting to the path of the convert utility on your machine, hint: use the `which convert` command on *nix machines*.
 
 ## Color Highlighting styles

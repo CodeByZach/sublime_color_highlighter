@@ -1,4 +1,3 @@
-
 # color-pick
 
 Command line wrapper around OS X built in color picker.

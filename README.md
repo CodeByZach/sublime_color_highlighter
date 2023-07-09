@@ -1,6 +1,5 @@
 # ColorHighlighter
-
-[![Package Control Downloads][pc-image]][pc-link]
+[![Latest Release](https://img.shields.io/github/tag/CodeByZach/sublime_color_highlighter.svg?label=version)](https://github.com/CodeByZach/sublime_color_highlighter/releases)
 
 _ColorHighlighter is a plugin for the Sublime Text 2 and 3, which unobtrusively previews color values by underlaying the selected hex codes in different styles, coloring text or gutter icons. Also, plugin adds color picker, color format converter to easily modify colors._
 
@@ -158,6 +157,3 @@ and `Filled` in
 `Tools > Color Highlighter > Color Highlighters > Highlight colors in selected text > Inline highlighting style`
 it might not work all the time. If you close/open the file a few times and sometimes it's working fine and sometimes it
 isn't, this is exactly this issue.
-
-[pc-image]: https://img.shields.io/packagecontrol/dt/Color%20Highlighter.svg
-[pc-link]: https://packagecontrol.io/packages/Color%20Highlighter

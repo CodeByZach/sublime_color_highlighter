@@ -3,13 +3,13 @@
 
 _ColorHighlighter is a plugin for the Sublime Text 2 and 3, which unobtrusively previews color values by underlaying the selected hex codes in different styles, coloring text or gutter icons. Also, plugin adds color picker, color format converter to easily modify colors._
 
-![Description](docs/UPmEk09.png)
+![Screenshot 1](docs/src/images/screenshot-1.png)
 
-![Description](docs/kl4joGA.png)
+![Screenshot 2](docs/src/images/screenshot-2.png)
 
-![Description](docs/highlight-color.gif)
+![Highlight Color](docs/src/images/highlight-color.gif)
 
-![Description](docs/color-picker.gif)
+![Color Picker](docs/src/images/color-picker.gif)
 
 ## Installation
 

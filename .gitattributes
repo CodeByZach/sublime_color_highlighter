@@ -4,7 +4,6 @@
 # Files & folders that should not be included in production.
 /.github/            export-ignore
 /.gitlab-ci.yml      export-ignore
-/.python-version     export-ignore
 /ci/                 export-ignore
 /docs/               export-ignore
 /integration_tests/  export-ignore

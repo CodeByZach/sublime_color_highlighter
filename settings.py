@@ -152,7 +152,7 @@ class ColorSchemeColorHighlighterSettings(object):  # pylint: disable=too-few-pu
         self.enabled = settings.get("enabled", False)
         self.highlight_style = settings.get("highlight_style", "filled")
         assert self.highlight_style in valid_styles, ("Color scheme highlihgting style \"%s\" is invalid"
-            % self.highlight_style)
+                                                      % self.highlight_style)
 
 
 class GutterIconsColorHighlighterSettings(object):  # pylint: disable=too-few-public-methods
